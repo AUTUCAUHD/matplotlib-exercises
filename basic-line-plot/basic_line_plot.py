@@ -11,4 +11,5 @@ plt.title("Annual Revenue")
 plt.xlabel("Years")
 plt.ylabel("Revenue (by thousands)")
 
+plt.savefig("sample_output.png")
 plt.show()
