@@ -19,3 +19,7 @@ Each folder contains an exercise
 - **multi-plot-customization/**
   - Two line plots visualizing product sales over time
   - Includes plot titles, axis labels, saved output, and plot customization
+
+- **customized-labels/**
+  - Line plot visualizing student attendance over time
+  - Includes customized axis labels, titles, saved output, and plot customization
