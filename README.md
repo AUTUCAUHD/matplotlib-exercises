@@ -27,3 +27,7 @@ Each folder contains an exercise
 - **bar-chart/**
   - Bar chart visualizing quantity of employees per department
   - Includes axis labels, titles, saved output, and plot customization
+
+- **pie-chart/**
+  - Pie chart visualizing monthly expenses
+  - Includes labels, percentages, customized colors, and saved output
