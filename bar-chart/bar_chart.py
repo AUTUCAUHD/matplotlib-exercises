@@ -12,7 +12,7 @@ plt.ylabel("Department", size=15)
 
 plt.grid(axis="x", color="lightgray", alpha=0.5)
 
-plt.subplots_adjust(bottom=0.17, left=0.17)
+plt.subplots_adjust(bottom=0.17, left=0.2)
 
 plt.savefig("sample_output.png")
 
