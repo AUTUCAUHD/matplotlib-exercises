@@ -31,3 +31,7 @@ Each folder contains an exercise
 - **pie-chart/**
   - Pie chart visualizing monthly expenses
   - Includes labels, percentages, customized colors, and saved output
+
+- **scatter-plot/**
+  - Scatter plot visualizing the correlation between hours of sleep and levels of productivity between students and workers
+  - Includes labels, customized colors, alpha, legend, and saved output
