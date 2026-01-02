@@ -45,3 +45,7 @@ Each folder contains an exercise
    - **screen-time-distribution/**
      - Histogram visualizing the frequency distribution of screen time hours among a quantity of users
    - Each histogram is analyzed for bulk concentration, mean vs median, and distribution direction.
+
+  - **subplots/**
+    - One figure with four axes visualizing a student dashboard
+    - Includes labels, titles, line plot, scatter plot, histogram, bar chart, and analysis of each subplot
